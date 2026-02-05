@@ -158,9 +158,10 @@ main{
 @media (min-width:48rem){
     body::before{
         background: url(images/pattern-background-desktop.svg) no-repeat;
-        left: 10%;
+       
     }
     .content{
     padding-inline: 2.5rem;
 }
 }
+
